@@ -4,7 +4,7 @@
 - 📱 I’m currently working on Android Sec Research
 - 📚 I’m currently learning Android Reverse
 - 🤔 I’m looking for help with Android DBI
-- 💖 I’m interested in pubg
+- 💖 I’m interested in pubg mobile
 - 📫 How to reach me: [sud0su@qq.com](mailto:sud0su@qq.com)
 ### Welcome to my site
 - 📝 my blog site [blog.ch3nye.top](https://blog.ch3nye.top)
