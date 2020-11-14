@@ -4,7 +4,7 @@
 
 ### Intro
 
-- 📱 I’m currently working on Android Sec
+- 📱 I’m currently working on Android Sec Research
 - 📚 I’m currently learning Android Reverse
 - 🤔 I’m looking for help with Android DBI
 - 💖 I’m interested in pubg
