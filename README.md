@@ -7,4 +7,4 @@
 - 💖 I’m interested in Genshin Impact and PUBG mobile
 - 📫 How to reach me: [sud0su@qq.com](mailto:sud0su@qq.com)
 ### Welcome to my site
-- 📝 my blog site [blog.ch3nye.top](https://blog.ch3nye.top)
+- 📝 my blog site [ch3nye.top](https://ch3nye.top)
