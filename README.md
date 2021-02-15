@@ -4,7 +4,7 @@
 - 📱 I’m currently working on Android Sec Research
 - 📚 I’m currently learning Android Reverse
 - 🤔 I’m looking for help with Android DBI
-- 💖 I’m interested in Genshin Impact and PUBG mobile
+- 💖 I’m interested in Genshin Impact, Hell Let Loose and BattleField V
 - 📫 How to reach me: [sud0su@qq.com](mailto:sud0su@qq.com)
 ### Welcome to my site
 - 📝 my blog site [ch3nye.top](https://ch3nye.top)
