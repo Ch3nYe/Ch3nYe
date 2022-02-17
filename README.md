@@ -1,5 +1,5 @@
 ## Nice to meet you 😁
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ch3nYe&theme=monokai&show_icons=true">](https://github.com/Ch3nYe)
+[![Analysis](https://github-readme-stats.vercel.app/api?username=Ch3nYe&theme=monokai&show_icons=true)](https://github.com/Ch3nYe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=javascript,html,css,Typescript,GLSL,Assembly,Objective-C,Scala,C%23,Ada,Visual%20Basic%20.NET,Haxe,D)](https://github.com/anuraghazra/github-readme-stats)
 ### Intro
 - 📱 I’m currently working on Binary Security Research
