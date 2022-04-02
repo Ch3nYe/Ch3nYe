@@ -5,7 +5,7 @@
 - 📱 I'm a Postgraduate Student in USTC
 - 🤯 I'm currently working on Binary Security Research
 - 📚 I'm insterested in Rust and Android Reverse
-- 💖 I have a dream of becoming a gaming and video game player
+- 💖 I have a dream of becoming a esports gamer
 - 📫 How to reach me: [sud0su@qq.com](mailto:sud0su@qq.com)
 ### Welcome to my site
 - 📝 my blog site [ch3nye.top](https://ch3nye.top)
