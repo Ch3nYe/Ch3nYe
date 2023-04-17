@@ -4,13 +4,13 @@
 ### Intro
 - 📱 I'm a Postgraduate Student in USTC
 - 🤯 I'm currently working on Binary Security Research
-- 📚 I'm insterested in Rust and Android Reverse
+- 📚 I'm insterested in AI for Security and Rust
 - 💖 I have a dream of becoming a esports gamer
 - 📫 How to reach me: [sud0su@qq.com](mailto:sud0su@qq.com)
 ### Welcome to my site
 - 📝 my blog site [ch3nye.top](https://ch3nye.top)
 
-### 天下苦Hex-Rays久矣
+<!--### 天下苦Hex-Rays久矣
 产品价格表：https://hex-rays.com/cgi-bin/quote.cgi/products
 
 <!--### ???
