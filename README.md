@@ -4,7 +4,7 @@
 ### Intro
 - 📱 I'm a Postgraduate Student in USTC
 - 🤯 I'm currently working on Binary Security Research
-- 📚 I'm insterested in AI for Security and Rust
+- 📚 I'm insterested in Binary, AI for Security(NLP), LLMs, Fuzzing, and Rust
 - 💖 I have a dream of becoming a esports gamer
 - 📫 How to reach me: [sud0su@qq.com](mailto:sud0su@qq.com)
 ### Welcome to my site
