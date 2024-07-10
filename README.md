@@ -2,7 +2,7 @@
 [![Analysis](https://github-readme-stats.vercel.app/api?username=Ch3nYe&theme=monokai&show_icons=true)](https://github.com/Ch3nYe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch3nYe&theme=monokai&layout=compact&hide=javascript,html,css,C%2B%2B,Mako,Typescript,GLSL,Assembly,Objective-C,Scala,C%23,Ada,Visual%20Basic%20.NET,Haxe,D,PowerShell)](https://github.com/anuraghazra/github-readme-stats)
 ### Intro
-- 📱 I'm a Postgraduate Student in USTC
+- 📱 I'm a SysSec Researcher in XingTu Lab, QAX Inc.
 - 🤯 I'm currently working on Binary Security Research
 - 📚 I'm insterested in Binary, AI for Security(NLP), LLMs, Fuzzing, and Rust
 - 💖 I have a dream of becoming a esports gamer
